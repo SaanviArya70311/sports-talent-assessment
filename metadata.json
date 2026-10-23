@@ -1,0 +1,6 @@
+{
+  "name": "Elitez - Sports Talent Assessment Platform",
+  "description": "Standardized sports talent assessment, performance benchmarking, video evaluation, and talent discovery for athletes, coaches, and scouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
